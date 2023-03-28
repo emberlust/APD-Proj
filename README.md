@@ -3,10 +3,10 @@ The purpose of the project is to test the performance of serial implementation o
 The project is written in Python.
 For the parallel implementation, mpi4py.
 
-The implementation of the serial algorithm is fount in algo.py.__
-The main driver for testing the code is found in driver.py.__
-The code used for data generation is found in dataGenerator.py.__
-__
+The implementation of the serial algorithm is fount in algo.py. <br/>
+The main driver for testing the code is found in driver.py. <br/>
+The code used for data generation is found in dataGenerator.py. <br/>
+
 
 The machine used for running the tests:
 * OS Windows 11
