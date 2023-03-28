@@ -1,15 +1,14 @@
 import random
 
-def random_list(size = 0, lower = -100000 + 1 , upper = 100000):
+def _random(size = 0, lower = -100000 + 1 , upper = 100000):
     dimension = 2**size
     random.seed(size)
     dataset = open("datasets/dataset" + str(size) + ".txt","w")
     for i in range(dimension):
         dataset.write(str((random.uniform(lower,upper))) + "\n")
-    return list
 
 def main():
     for i in range(1,28):
-        random_list(i)
+        _random(i)
 
 main()
