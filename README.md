@@ -1,7 +1,7 @@
 # APD-Proj
-The purpose of the project is to test the performance of serial implementation of Merge Sort versus the parallel implementation.
-The project is written in Python.
-For the parallel implementation, mpi4py will be used.
+The purpose of the project is to test the performance of serial implementation of Merge Sort versus the parallel implementation. <br/>
+The project is written in Python. <br/>
+For the parallel implementation, mpi4py will be used. <br/>
 
 The implementation of the serial algorithm is fount in algo.py. <br/>
 The main driver for testing the code is found in driver.py. <br/>
