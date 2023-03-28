@@ -7,6 +7,7 @@ The implementation of the serial algorithm is fount in algo.py. <br/>
 The main driver for testing the code is found in driver.py. <br/>
 The code used for data generation is found in dataGenerator.py. <br/>
 
+Results can be found in result.txt. The time elapsed is exprimated in seconds.
 
 The machine used for running the tests:
 * OS Windows 11
