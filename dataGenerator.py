@@ -9,7 +9,7 @@ def random_list(size = 0, lower = -100000 + 1 , upper = 100000):
     return list
 
 def main():
-    for i in range(26,27):
+    for i in range(1,28):
         random_list(i)
 
 main()
