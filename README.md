@@ -11,5 +11,5 @@ Results can be found in result.txt. The time elapsed is exprimated in seconds. <
 
 The machine used for running the tests:
 * OS Windows 11
-* CPU Intel i5-10300H 2.5ghz, 4cores, 8 logical cores
+* CPU Intel i5-10300H 2.5ghz, 4 cores, 8 logical cores
 * RAM 16GB
