@@ -1,0 +1,9 @@
+Elapsed time = 0.6665511131286621 in\dataset17.txt 
+Elapsed time = 1.3925426006317139 in\dataset18.txt 
+Elapsed time = 5.84423303604126 in\dataset20.txt
+Elapsed time = 12.718423128128052 in\dataset21.txt
+Elapsed time = 22.44192910194397 in\dataset21.txt 
+Elapsed time = 27.25355577468872 in\dataset22.txt 
+Elapsed time = 58.74515676498413 in\dataset23.txt 
+Elapsed time = 1347.1964764595032 in\dataset27.txt  
+Elapsed time = 2826.102137565613 in\dataset28.txt
